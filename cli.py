@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-# PHONE//TRACE - interactive CLI. Author: ZLAXTERT / API: DARKXCODE
+# PHONE//TRACE - interactive CLI. 
+# AUTHOR : ZLAXTERT 
+# API FROM : DARKXCODE
+# TELEGRAM CONTACT : https://t.me/zlaxtert
+# SITE SHOP : https://darkxcode.site/
+# WEBSITE : https://www.darkxcode.pw/
 import json
 import shutil
 import sys
