@@ -4,7 +4,7 @@ The console resolves carrier, line type, SMS gateway, registered area and coordi
 
 ## Output
 
-![screenshot](https://raw.githubusercontent.com/zlaxtert-code/PHONE-TRACEV1.0.1/master/img/output-cli.png)
+![screenshot](https://raw.githubusercontent.com/zlaxtert-code/PHONE-TRACEV1.0.1/master/output-cli.png)
 
 This is the result if the code is successfully validation.
 
